@@ -1,0 +1,7 @@
+# Complexidade_Campo_Minado
+Neste trabalho, apresentaremos uma nova versão do jogo Campo Minado usando a linguagem Python e também buscaremos compreender a complexidade computacional que permeia esse clássico.
+Objetivo: Nosso objetivo principal é proporcionar uma compreensão aprofundada da complexidade computacional envolvida na criação de um jogo aparentemente simples como o Campo Minado.
+Metodologia: O Campo Minado é um jogo que envolve uma complexidade computacional moderada, principalmente relacionada à resolução do problema de encontrar as minas sem clicar nelas. A complexidade é expressada em termos da notação "big O" (O()), que descreve o crescimento do tempo de execução ou uso de recursos em relação ao tamanho do problema.
+Resultado: Observamos que a estrutura do código do jogo em Python é bastante simples, que permite facil compreensão. A geração de números aleatórios é eficaz, notamos que a parte mais custosa é a geração do tabuleiro. De maneira geral, aa computabilidade do código do jogo é eficiente.
+Conclusão: Concluímos que o jogo campo minado é um tema rico e desafiador para o estudo de computabilidade e complexidade. Através do estudo deste jogo, é possível compreender melhor esses conceitos e aprender a programar computabilidade do código do jogo é eficiente.
+Conclusão: Concluímos que o jogo campo minado é um tema rico e desafiador para o estudo de computabilidade e complexidade. Através do estudo deste jogo, é possível compreender melhor esses conceitos e aprender a programar
